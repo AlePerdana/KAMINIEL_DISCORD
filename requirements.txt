@@ -7,3 +7,5 @@ kokoro-tts
 torch
 soundfile
 sounddevice
+pyvts
+SpeechRecognition
