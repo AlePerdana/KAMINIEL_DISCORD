@@ -1,6 +1,6 @@
 # Local environment files
 .env
-.env.*
+.env
 
 # Node modules
 node_modules/
@@ -45,3 +45,6 @@ venv.bak/
 
 models/*.gguf
 kokoro_voice_samples/
+
+./vts*
+*.json
