@@ -45,6 +45,7 @@ venv.bak/
 
 models/*.gguf
 kokoro_voice_samples/
+models/rvc
 
 ./vts*
 *.json

@@ -9,3 +9,4 @@ soundfile
 sounddevice
 pyvts
 SpeechRecognition
+rvc-python
